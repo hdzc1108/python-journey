@@ -21,7 +21,7 @@ Documenting my journey learning Python from scratch. Contains daily practice cod
 ## 🎯 学习进度
 - [x] 基础语法（变量、循环、条件判断）
 - [x] 函数与异常处理
-- [x] 字典与基础文件读写（进行中）
+- [x] 字典与基础文件读写
 - [ ] 面向对象编程（OOP）
 
 ## 💻 开发环境
