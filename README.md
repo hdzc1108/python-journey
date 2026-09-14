@@ -15,6 +15,7 @@ Documenting my journey learning Python from scratch. Contains daily practice cod
 | 2026-09-11 | `成绩统计1.py` | 统计成绩的平均分和最高分 | 列表、函数封装、`try-except` |
 | 2026-09-11 | `猜数字游戏3.py` | 带异常处理和次数统计的猜数字游戏 | `random`、`while True`、`break`、`f-string` |
 | 2026-09-12 | `通讯录3.py` | 带增删改查功能的命令行通讯录 | 字典、`while True`、函数封装 |
+| 2026-09-14 | `通讯录6.py` | 带存档、备份、校验、导出的完整通讯录 | 字典、文件读写、Pandas、异常处理 |
 
 
 ## 🎯 学习进度
