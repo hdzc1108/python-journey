@@ -16,13 +16,14 @@ Documenting my journey learning Python from scratch. Contains daily practice cod
 | 2026-09-11 | `猜数字游戏3.py` | 带异常处理和次数统计的猜数字游戏 | `random`、`while True`、`break`、`f-string` |
 | 2026-09-12 | `通讯录3.py` | 带增删改查功能的命令行通讯录 | 字典、`while True`、函数封装 |
 | 2026-09-14 | `通讯录6.py` | 带存档、备份、校验、导出的完整通讯录 | 字典、文件读写、Pandas、异常处理 |
+| 2026-09-15 | `通讯录8.py` | 纯文本轻量级通讯录（最终版），支持增删改查、Excel导出、自动备份、路径自适应，按键隔离设计 | `csv`、`os`、`shutil`、`sys`、异常处理、PyInstaller打包 |
 
 
 ## 🎯 学习进度
 - [x] 基础语法（变量、循环、条件判断）
 - [x] 函数与异常处理
 - [x] 字典与基础文件读写
-- [ ] 面向对象编程（OOP）
+- [ ] 面向对象编程（OOP）(进行中)
 
 ## 💻 开发环境
 - Python 3.14
